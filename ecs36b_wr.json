@@ -1,0 +1,13 @@
+[
+    {
+        "name": "remote_print",
+        "params": {
+            "action": "printing",
+            "your_json": "content to be printed remotely"
+        },
+        "returns": {
+            "action": "return",
+	    "response": "jsonstr"
+        }
+    }
+]
